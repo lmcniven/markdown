@@ -3,7 +3,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-- []  not done yet
+- [] not done yet
 - [X] done
 
 
