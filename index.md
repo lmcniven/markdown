@@ -4,6 +4,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 ...
+
 $ git init 
 test
 ...
