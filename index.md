@@ -1,6 +1,9 @@
-# This is a h1 header
-## This is a h2 header
-###### This is the smallest header
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
